@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "*.ejs": "html",
-    "challange_8.C": "cpp",
-    "challange_9.C": "cpp",
-    "stdlib.h": "c"
-  }
-}

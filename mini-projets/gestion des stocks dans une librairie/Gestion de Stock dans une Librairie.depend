@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727532964 source:c:\users\youco\desktop\mini project\gestion de stock dans une librairie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
