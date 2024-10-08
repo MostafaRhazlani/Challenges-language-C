@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727357274 source:c:\users\youco\desktop\mini project\un programme qui affiche un menu à l'utilisateur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

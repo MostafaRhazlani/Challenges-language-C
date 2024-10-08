@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1727806561 source:c:\users\youco\desktop\mini project\gestion de contacts\contacts_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+
